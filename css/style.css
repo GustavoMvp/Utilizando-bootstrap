@@ -1,0 +1,27 @@
+body {
+    font-size: 20px;
+    background: #9CCFF6;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.text {
+    font-size: 30px;
+}
+
+.navbar {
+    background-color: #1C2833;
+}
+
+.margin {
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 25px;
+
+}
+
